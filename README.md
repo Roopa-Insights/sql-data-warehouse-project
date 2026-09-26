@@ -126,7 +126,7 @@ The ETL process follows these steps:
 
 ### ETL Diagram
 
-![ETL Process](docs/images/etl_process.png)
+![ETL Process](docs/etl_methods.png)
 
 ---
 
@@ -142,7 +142,7 @@ The data moves through the warehouse in different stages.
 
 ### Data Flow Diagram
 
-![Data Flow](docs/images/data_flow.png)
+![Data Flow](docs/data_flow.png)
 
 ---
 
@@ -159,7 +159,7 @@ This structure makes analytical queries easier to write and understand.
 
 ### Data Model Diagram
 
-![Data Model](docs/images/data_model.png)
+![Data Model](docs/data_model.png)
 
 ---
 
