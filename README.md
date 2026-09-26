@@ -38,10 +38,10 @@ The Silver Layer is used to **clean and prepare the data**.
 
 The Gold Layer contains **business-ready data**.
 
-* Fact and dimension tables are created.
-* A Star Schema is used.
-* The data is prepared for reporting and analysis.
-* SQL queries can be used to answer business questions.
+* Data is organized into fact and dimension tables.
+* A **Star Schema** is used.
+* The tables are prepared for reporting and analysis.
+* Business questions can be answered easily using this layer.
 
 ### Data Architecture Diagram
 
