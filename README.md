@@ -45,7 +45,7 @@ The Gold Layer contains **business-ready data**.
 
 ### Data Architecture Diagram
 
-![Data Architecture](docs/images/data_architecture.png)
+![Data Architecture](docs/high_level_architecture.png)
 
 ---
 
